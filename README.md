@@ -23,3 +23,16 @@ I added more expression to the face, added eyes then added tears to them and the
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+## Hour 3
+
+I finished the sculpting of the hair. Then I painted the colors onto the face and hair.
+
+### Progress:
+
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+
