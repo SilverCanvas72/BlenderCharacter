@@ -1,5 +1,10 @@
 # BlenderCharacter
+## Sketchfab Link:
+https://skfb.ly/p7ZNB 
+![image](https://github.com/user-attachments/assets/9208b027-a7ef-4e19-8dee-0294f7940d29)
 
+<details>
+  <summary>See Hourly Progress</summary>
 ## Hour 1
 
 I started sculpting or the first proper time in blender. I started with the base shape of the head and then add some basic features.
@@ -36,3 +41,4 @@ I finished the sculpting of the hair. Then I painted the colors onto the face an
 ![alt text](image-14.png)
 ![alt text](image-15.png)
 
+</details>
