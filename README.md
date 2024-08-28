@@ -1,4 +1,5 @@
 # BlenderCharacter
+My first attempt at sculpting in blender.
 ## Sketchfab Link:
 https://skfb.ly/p7ZNB 
 
